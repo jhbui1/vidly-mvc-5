@@ -195,10 +195,13 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+<<<<<<< HEAD
     <Compile Include="Controllers\Api\CustomersController.cs" />
     <Compile Include="Controllers\Api\MoviesController.cs" />
     <Compile Include="Controllers\Api\NewRentalsController.cs" />
     <Compile Include="Controllers\CustomersController.cs" />
+=======
+>>>>>>> parent of b727a26... Solution - Section 2 Exercise - Display the list of customers and movies.
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\MoviesController.cs" />
@@ -541,6 +544,7 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Movies\Random.cshtml" />
     <Content Include="Views\Shared\_NavBar.cshtml" />
+<<<<<<< HEAD
     <None Include="Views\Customers\Details.cshtml" />
     <None Include="Views\Customers\Index.cshtml" />
     <Content Include="Views\Movies\Details.cshtml" />
@@ -552,6 +556,8 @@
     <None Include="Web.Testing.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+=======
+>>>>>>> parent of b727a26... Solution - Section 2 Exercise - Display the list of customers and movies.
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

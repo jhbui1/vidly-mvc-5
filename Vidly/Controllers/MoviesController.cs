@@ -10,6 +10,7 @@ namespace Vidly.Controllers
 {
     public class MoviesController : Controller
     {
+<<<<<<< HEAD
         private ApplicationDbContext _context;
 
         public MoviesController()
@@ -72,6 +73,8 @@ namespace Vidly.Controllers
         }
 
 
+=======
+>>>>>>> parent of b727a26... Solution - Section 2 Exercise - Display the list of customers and movies.
         // GET: Movies/Random
         public ActionResult Random()
         {
